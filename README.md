@@ -1,9 +1,9 @@
 # Roy: a Python library for distributed shared memory
 
-[![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)](https://yale-nerd.github.io/roy/)
+[![Homepage](https://img.shields.io/badge/Homepage-Visit-blue)](https://yale-nova.github.io/roy/)
 
 
-Roy enables mutable remote objects on Ray. Please check out our [homepage](https://yale-nerd.github.io/roy/) for more information.
+Roy enables mutable remote objects on Ray. Please check out our [homepage](https://yale-nova.github.io/roy/) for more information.
 
 ## How to run a simple example
 1) Install the Roy library.
@@ -14,7 +14,7 @@ pip install roy-on-ray
 ```bash
 make example
 ```
-The source code is located at [`examples/pi_compute/pi_compute.py`](https://github.com/Yale-NeRD/roy/blob/main/examples/pi_compute/pi_compute.py).
+The source code is located at [`examples/pi_compute/pi_compute.py`](https://github.com/yale-nova/roy/blob/main/examples/pi_compute/pi_compute.py).
 
 ## Tests
 ```bash
